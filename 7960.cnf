@@ -1,0 +1,10 @@
+image_version: P0S3-8-12-00
+line1_name: <extension>
+line1_authname: "[== SIP EXTENSION ==]"
+line1_shortname: "[== KEY LABEL ==]"
+line1_password: "[== SIP PASSWORD ==]"
+line1_displayname: "[== SIP DISPLAY NAME ==]"
+proxy1_port: 5060
+proxy1_address: [== SIP SERVER IP ==]
+user_info: none
+telnet_level: 2
