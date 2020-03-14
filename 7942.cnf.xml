@@ -104,7 +104,7 @@
             </autoAnswer>
             <callWaiting>3</callWaiting>
             <authName>[== SIP EXTENSION / AUTH NAME ==]</authName> 
-            <authPassword[== SIP PASSWORD ==]</authPassword> 
+            <authPassword>[== SIP PASSWORD ==]</authPassword> 
             <sharedLine>false</sharedLine>
             <messageWaitingLampPolicy>1</messageWaitingLampPolicy>
             <messagesNumber>*97</messagesNumber>
